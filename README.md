@@ -9,3 +9,5 @@ Non-Convex RPCA for the paper: Z. Kang, C. Peng and Q. Cheng, "Robust PCA via No
 Log-based RPCA for the paper: Liu, Y., Zhang, Q., Chen, Y., Cheng, Q. and Peng, C., 2021. Hyperspectral Image Denoising with Log-based Robust PCA. 2021 IEEE International Conference on Image Processing (ICIP).
 
 The implementation for each part is present in seperate folders inside the main folder(ICIP2-Hyperspectral Image Denoising with log-based Robust PCA).
+
+Note: Please go through the instructions in each folder before running the notebook scripts.
