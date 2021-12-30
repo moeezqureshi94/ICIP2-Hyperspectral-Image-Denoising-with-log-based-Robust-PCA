@@ -10,4 +10,4 @@ Log-based RPCA for the paper: Liu, Y., Zhang, Q., Chen, Y., Cheng, Q. and Peng, 
 
 The implementation for each part is present in seperate folders inside the main folder(ICIP2-Hyperspectral Image Denoising with log-based Robust PCA).
 
-# Note: Please go through the instructions in each folder before running the notebook scripts.
+### Note: Please go through the instructions in each folder before running the notebook scripts.
