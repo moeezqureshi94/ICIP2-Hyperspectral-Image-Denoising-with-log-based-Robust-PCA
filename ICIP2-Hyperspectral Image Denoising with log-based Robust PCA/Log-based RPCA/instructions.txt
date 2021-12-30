@@ -1,1 +1,8 @@
-Please load the indian_pines.mat file before running the LogBasedRPCA.ipynb script. 
+Note: Please load the indian_pines.mat file before running the LogBasedRPCA.ipynb script. 
+
+The LogBasedRPCA.ipynb contains the following functions: 
+  1). LogRobustPCA(X, lamba, mu, tol, max_iter)
+  2). D_tau(tau,M)
+  3). F_tau(tau,M)
+  
+  These three functions are implemented from the paper Hyperspectral Image Denoising with log-based Robust PCA.
